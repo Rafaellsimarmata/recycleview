@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">My RecyclerView Cth</string>
+    <string name="faculty_name">Nama Fakultas</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+    <string name="about_name">Mhd Iqbal Maulana</string>
+    <string name="about_email">mhdiqbalmaulana118@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Fakultas Kedokteran</item>
+        <item>Fakultas Hukum</item>
+        <item>Fakultas Pertanian</item>
+        <item>Fakultas Teknik</item>
+        <item>Fakultas Ekonomi dan Bisnis</item>
+        <item>Lookism</item>
+        <item>Remarried Impress</item>
+        <item>The God Of High School</item>
+        <item>DICE</item>
+        <item>Tower Of God</item>
+        <item>Comedy Canvvas</item>
+        <item>Lookism S2</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/img15</item>
+        <item>@drawable/img16</item>
+        <item>@drawable/img17</item>
+        <item>@drawable/img2</item>
+        <item>@drawable/img9</item>
+        <item>@drawable/img10</item>
+        <item>@drawable/img11</item>
+        <item>@drawable/img12</item>
+        <item>@drawable/img13</item>
+        <item>@drawable/img14</item>
+        <item>@drawable/img9</item>
+        <item>@drawable/img10</item>
+    </integer-array>
+
+    <string-array name="data_description">
+        <item>Sebagai institusi pendidikan kedokteran terkemuka di Sumatera Utara, Fakultas Kedokteran USU berkomitmen untuk memberikan pendidikan berkualitas tinggi kepada para mahasiswa dan mempersiapkan mereka untuk menjadi tenaga medis profesional yang terampil. Kurikulum Fakultas Kedokteran USU dirancang untuk memberikan dasar yang kuat dalam ilmu-ilmu dasar, serta pengalaman klinis langsung melalui rangkaian kegiatan pada masa pendidikan profesi. Fakultas Kedokteran USU adalah Fakultas Kedokteran pertama di Sumatera Utara dan mendapatkan ranking 11 sebagai Fakultas Kedokteran Terbaik versi The Asia University Ranking 2022.</item>
+        <item>Menduduki peringkat ke-11 untuk Fakultas Hukum terbaik di Indonesia oleh The Asia University Rangking 2022, Fakultas Hukum Universitas Sumatera Utara terus menjadi institusi hukum terkemuka di Sumatera Utara. Menghasilkan lulusan yang kompeten dengan tenaga pengajar berpengalaman, Fakultas Hukum USU menyediakan rangkaian program studi yang meliputi ilmu hukum bisnis, pidana, perdata, internasional dan lainnya untuk tingkat sarjana, juga program studi S2 dan S3. Sebagai fakultas hukum tertua di Sumatera Utara, Fakultas Hukum USU telah berdedikasi selama puluhan tahun dalam pengembangan ilmu hukum di Indonesia</item>
+        <item>Terdiri atas program studi berkualitas, baik di tingkat sarjana, magister maupun doktoral, Fakultas Pertanian Universitas Sumatera Utara berfokus untuk menghasilkan lulusan yang memiliki kemampuan dan kompetensi tinggi di bidang pertanian, peternakan, kehutanan dan teknologi pertanian. Mahasiswa mendapatkan kualitas pendidikan yang baik, didukung dengan adanya fasilitas yang lengkap dan modern, tersedianya sarana dan prasarana serta laboratorium yang memadai. Fakultas Pertanian USU juga menjalin kerjasama dengan berbagai institusi untuk mendukung kegiatan magang, riset dan kegiatan pembelajaran lainnya</item>
+        <item>Berdiri sejak tahun 1959 sebagai fakultas ke-4 di Universitas Sumatera Utara, Fakultas Teknik USU telah berkembang dan memiliki 7 program Sarjana, 6 program Magister, 5 program Doktoral dan 2 program Profesi yang masing-masing program studinya memiliki akreditasi yang baik. Dalam menyelenggarakan kegiatan pendidikan dan tujuannya untuk menghasilkan tenaga ahli dalam bidang ilmu teknik, FT USU menyediakan fasilitas yang memadai dan memberikan kualitas terbaik dalam pembelajaran dengan menjalin kerjasama dengan ahli-ahli dan tenaga pendidik yang kompeten dalam bidangnya.</item>
+        <item>Berfokus pada bidang ilmu Ekonomi, Akuntansi dan Manajemen, Fakultas Ekonomi Bisnis USU menawarkan pendidikan yang unggul dan berkualitas. Dibuktikan dengan staf dan tenaga pengajar yang bermutu tinggi dan kompeten dalam bidangnya, program studi di Fakultas Ekonomi dan Bisnis USU telah meraih akreditasi unggul. FEB USU juga menyediakan fasilitas memadai untuk mendukung perkembangan fakultas dan pengembangan ilmu ekonomi</item>
+        <item>Lookism adalah komik web asal Korea Selatan karya Park Tae-jun yang menyajikan kisah menakjubkan tentang diskriminasi berdasarkan penampilan fisik. Ceritanya berpusat pada seorang remaja bernama Park Hyung-suk yang sering diintimidasi karena penampilannya.</item>
+        <item>Remarried Empress adalah webtoon dan novel yang memukau, ditulis oleh Alphatart dan diilustrasikan oleh Sumpul. Kisahnya mengisahkan perjuangan seorang permaisuri cerdas dan berwibawa, Navier Ellie Trovi, yang harus menghadapi pengkhianatan suaminya, Kaisar Sovieshu.</item>
+        <item>The God of High School adalah webtoon karya Yongje Park yang penuh aksi dan seni bela diri yang mendebarkan. Cerita ini berfokus pada Jin Mori, seorang remaja ahli taekwondo, yang diundang untuk mengikuti turnamen nasional "The God of High School," di mana para petarung muda dari seluruh Korea bersaing demi mendapatkan apa pun yang mereka inginkan sebagai hadiah.</item>
+        <item>Dice: The Cube That Changes Everything adalah webtoon karya Hyunseok Yun yang mengeksplorasi konsekuensi kekuatan dan pilihan. Cerita ini mengikuti Dongtae, seorang siswa SMA yang merasa terjebak dalam kehidupan penuh penderitaan dan ketidakadilan, hingga ia bertemu Taebin, siswa baru yang tampaknya memiliki kehidupan sempurna. </item>
+        <item>Tower of God adalah webtoon epik karya SIU (Slave In Utero) yang mengisahkan petualangan Bam, seorang anak yang seluruh hidupnya hanya mengenal kegelapan hingga ia bertemu Rachel, satu-satunya orang yang ia sayangi. </item>
+        <item>platform dari LINE Webtoon yang memungkinkan para kreator independen untuk mempublikasikan komik mereka sendiri dan berbagi cerita dengan audiens global.</item>
+        <item>Lookism adalah komik web asal Korea Selatan karya Park Tae-jun yang menyajikan kisah menakjubkan tentang diskriminasi berdasarkan penampilan fisik. Ceritanya berpusat pada seorang remaja bernama Park Hyung-suk yang sering diintimidasi karena penampilannya.</item>
+        <item>Fakultas Ilmu Budaya Universitas Sumatera Utara atau yang dahulu lebih dikenal sebagai Fakultas Sastra USU berfokus pada ilmu-ilmu sosial, kebahasaan, sastra dan kebudayaan, FIB USU telah berdedikasi dalam pengembangan ilmu tersebut sejak berdirinya pada tahun 1965. Dengan didukung tenaga pengajar berpengalaman, adanya fasilitas yang memadai, serta sarana dan prasarana yang lengkap untuk mendukung berjalannya kegiatan akademik maupun non-akademik</item>
+        <item>Telah berdiri sejak tahun 1959, Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Sumatera Utara terus berinovasi untuk menghasilkan lulusan yang unggul di bidang ilmu yang diajarkan baik dalam tingkat sarjana, magister maupun doktoral. FMIPA USU menyediakan kegiatan pembelajaran yang didukung oleh dosen-dosen yang berpengalaman dan bermutu tinggi, serta bertujuan mewadahi kegiatan akademik dan riset mahasiswa dengan fasilitas yang unggul.</item>
+        <item>Berfokus pada pengembangan ilmu-ilmu sosial dan politik, Fakultas Ilmu Sosial dan Politik Universitas Sumatera Utara berdedikasi untuk melahirkan alumni-alumni terbaik dalam setiap bidang ilmu yang diajarkan dan dalam prospek karir yang bervariasi. Selain memiliki kegiatan pendidikan yang bermutu, FISIP USU juga unggul dalam bidang penelitian dan publikasi ilmiah, serta didukung oleh fasilitas yang baik untuk kegiatan akademik maupun non-akademik</item>
+        <item>Fakultas Kesehatan Masyarakat Universitas Sumatera Utara berfokus dalam melaksanakan pendidikan, penelitian, dan pengabdian terkait ilmu pencegahan penyakit. Sebagai salah satu institusi pendidikan kesehatan masyarakat terkemuka di Indonesia, Fakultas Kesehatan Masyarakat USU bekerjasama dengan puluhan ahli, tenaga pendidik, dan praktisi dari berbagai cabang ilmu dalam membentuk generasi baru pemimpin kesehatan global yang mampu melahirkan ide-ide kuat serta tidak hanya membuat terobosan ilmiah, tetapi juga bekerja untuk mengubah perilaku masyarakat dan kebijakan publik guna meningkatkan taraf hidup serta kesehatan masyarakat di Indonesia.</item>
+        <item>Fokus dalam pengembangan ilmu keperawatan untuk menghasilkan lulusan yang mampu memberikan perawatan promotif, preventif dan rehabilitatif, Fakultas Keperawatan Universitas Sumatera Utara menjadi salah satu fakultas terbaik di Indonesia untuk bidang ilmu keperawatan. Melalui pendidikan dengan kurikulum yang komprehensif dan diajarkan oleh tenaga pengajar berpengalaman, memberikan mahasiswa pemahaman akan ilmu keperawatan dasar yang didukung dengan praktik nyata. Ketersediaan sarana prasarana yang berkualitas mendorong mahasiswa untuk melaksanakan kegiatan belajar mengajar untuk menghasilkan rangkaian penelitian yang bermanfaat untuk pengembangan ilmu keperawatan</item>
+        <item>Terdiri atas 4 departemen: Manajemen Hutan, Budidaya Hutan, Teknologi Hasil Hutan, dan Konservasi Sumberdaya Hutan, juga menyediakan program pembelajaran di tingkat S1 dan S2, Fakultas Kehutanan USU melaksanakan pendidikan yang berkualitas, bermutu tinggi dan menghasilkan lulusan yang siap bersaing di dunia kerja khususnya dalam bidang ilmu kehutanan. Fakultas Kehutanan USU juga melakukan kerjasama serta melaksanakan poin-poin Tri Dharma Perguruan Tinggi guna pengembangan ilmu kehutanan.</item>
+        <item>Berkompeten dalam melahirkan lulusan yang berkompeten dalam ilmu perilaku manusia, Fakultas Psikologi Universitas Sumatera Utara merupakan salah satu fakultas psikologi terkemuka di Indonesia. Dengan kurikulum yang menyeluruh tentang aspek-aspek dari perilaku manusia dan diajarkan oleh tenaga pengajar yang berkualitas serta berpengalaman, Fakultas Psikologi USU memberikan mahasiswa kemampuan dalam mengembangkan pengetahuan dan keterampilan guna mendukung kariernya di masa depan. Mahasiswa juga mendapatkan kesempatan dalam melakukan penelitian dan terlibat dalam kegiatan klinis di bidang psikologi, menjadikan Fakultas Psikologi USU institusi yang berkualitas dalam pengembangan ilmu psikologi dan terapannya</item>
+        <item>Mengikuti kemajuan teknologi yang berkembang pesat, Fakultas Ilmu Komputer dan Teknologi Informasi Universitas Sumatera Utara memiliki kurikulum dan tenaga pendidik yang kompeten dan ahli dalam menyalurkan ilmu dan keahlian di bidang teknologi informasi dan komputer. Fasilkom-TI USU menawarkan beberapa program antara lain Program Sarjana Ilmu Komputer, Program Sarjana Teknologi Informasi, Program Magister Teknik Informatika, Program Magister Sains Data dan Kecerdasan Buatan, dan Program Doktoral Ilmu Komputer</item>
+        <item>Berdiri pada tahun 2006 sebagai fakultas ke-11 di Universitas Sumatera Utara, Fakultas Farmasi Universitas Sumatera Utara telah berkembang menjadi pusat pengembangan dan pendidikan ilmu farmasi terkemuka di Sumatera Utara. Memiliki 5 program studi yang telah terakreditasi, Fakultas Farmasi USU telah menghasilkan lulusan-lulusan kompeten yang didukung dengan kurikulum berkualitas dan dosen yang ahli di bidangnya. Mendapatkan peringkat ke-10 Fakultas Farmasi terbaik di Indonesia oleh Scimago Institutions Rangkings (SIR) 2022 menjadikan Fakultas Farmasi USU institusi terdepan dalam menghasilkan ahli farmasi dan apoteker.</item>
+        <item>Sekolah Pascasarjana Universitas Sumatera Utara adalah sekolah yang menjadi kumpulan program studi pascasarjana yang ada di Universitas Sumatera Utara dalam berbagai bidang ilmu. Memiliki akreditas unggul, SPS USU berdedikasi dalam memberikan pendidikan terbaik dan menghasilkan alumni-alumni yang profesional dengan menyediakan peluang magang atau riset di perusahaan terkemuka di dalam maupun luar negeri</item>
+    </string-array>
+
+    <string-array name="data_dean">
+        <item>Prof. Dr.dr. Aldy Safrudin Rambe, Sp,S(K)</item>
+        <item>Dr. Mahmul Siregar, SH., M.Hum</item>
+        <item>Dr. Ir. Tavi Supriana, MS</item>
+        <item>Dr. Ir. Fahmi, ST.,M.Sc.,IPM</item>
+        <item>Dr. Fadli, SE., M.Si</item>
+        <item>Dr. Trelia Boel drg., M.Kes, Sp.RKG.(K)</item>
+        <item>Dr. Dra. T. Thyrhaya Zein, MA</item>
+        <item>Dr. Nursahara Pasaribu, M.Sc</item>
+        <item>Drs. Hendra Harahap, M.Si, PhD</item>
+        <item>Prof. Dr. Dra. Ida Yustina, M.Si</item>
+        <item>Dr. Dudut Tanjung, S.Kp.,M.Kep., Sp,KMB</item>
+        <item>Dr. Rudi Hartono, S.Hut., M.Si</item>
+        <item>Zulkarnain, Ph.D, Psikolog</item>
+        <item>Dr. Maya Silvi Lydia, B.Sc., M.Sc</item>
+        <item>Khairunnisa, S.Si., M.Pharm., Ph.D, Apt</item>
+        <item>Prof. Ir. T. Sabrina, M.Agr. Sc., Ph.D</item>
+    </string-array>
+</resources>
